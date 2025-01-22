@@ -1,0 +1,4 @@
+https://cloud.google.com/contact-center/insights/docs/qai-overview
+https://cloud.google.com/contact-center/insights/docs/qai-basics
+https://cloud.google.com/contact-center/insights/docs/qai-setup-guide
+https://cloud.google.com/contact-center/insights/docs/qai-best-practices
